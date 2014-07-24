@@ -19,7 +19,7 @@ with open(requirements_file) as requirements_txt:
     requirements = [line for line in requirements_txt]
 
 setup(
-    name="docker-py",
+    name="gc-docker-py",
     version=version,
     description="Python client for Docker.",
     packages=['docker', 'docker.auth', 'docker.unixconn', 'docker.utils',
