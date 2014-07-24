@@ -3,7 +3,7 @@ docker-py
 
 [![Build Status](https://travis-ci.org/dotcloud/docker-py.png)](https://travis-ci.org/dotcloud/docker-py)
 
-An API client for docker written in Python
+A fork of docker-py that isn't as stupidly opinionated about the exact versions of its requirements
 
 Installation
 ============
